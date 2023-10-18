@@ -1,0 +1,14 @@
+.member-table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+.member-table thead {
+    border: solid 1px;
+}
+
+.member-table tr {
+    text-align: center;
+    border: solid 0.75px;
+}
